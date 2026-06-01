@@ -1,5 +1,5 @@
 # Project gym
-Gym Churn
+
 Gym Churn Predictive Analysis
 This project aims to predict customer churn in a gym setting using Machine Learning techniques. Through comprehensive data analysis and the training of predictive models, we seek to optimize member retention strategies.
 
